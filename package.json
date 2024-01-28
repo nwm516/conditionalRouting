@@ -1,0 +1,16 @@
+{
+  "name": "conditional-routing-express-nodejs",
+  "version": "0.1.0",
+  "description": "conditional routing express nodejs",
+  "main": "conditionalRoutingExpress.js",
+  "scripts": {
+    "start" : "conditionalRoutingExpress.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "type" : "module",
+  "author": "NW Miller",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
